@@ -34,7 +34,7 @@ The project involves several key steps:
 - **Strategic Recommendations:** Provide data-driven recommendations to improve sales and customer satisfaction.
 
 ## Data Source
-The data for this project was obtained from [mention the source, e.g., a public dataset, company database, etc.]. It includes various aspects such as:
+The data for this project was obtained from public dataset. It includes various aspects such as:
 - **Sales Transactions:** Detailed records of sales transactions.
 - **Customer Demographics:** Information about customers including age, gender, location, etc.
 - **Product Details:** Data on product categories, pricing, and inventory levels.
@@ -82,7 +82,4 @@ You can view the live Power BI dashboard [here](https://app.powerbi.com/view?r=e
 ## Conclusion
 This Power BI project provided valuable insights into e-commerce sales data, helping to identify key trends and areas for improvement. The interactive dashboards created can be used by business stakeholders to make informed decisions and strategies.
 
-## How to Use
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/shibambhagat/Power-BI-Project-Analyzing-Ecomarce-Sales-.git
+
